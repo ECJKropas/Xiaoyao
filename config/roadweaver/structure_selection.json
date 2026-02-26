@@ -33,7 +33,8 @@
     "meadow:chapel",
     "meadow:logging_camp",
     "meadow:monument",
-    "meadow:observation_post"
+    "meadow:observation_post",
+    "minecraft:swamp_hut"
   ],
   "enabledTags": [
     "minecraft:village",

@@ -1,4 +1,7 @@
 {
+  "enable_force_eat": false,
+  "force_eat_random_min_tick": 500,
+  "force_eat_random_max_tick": 1000,
   "food_healing_value": 0.5,
   "duck_spawn_weight": 6,
   "duck_min_group_size": 2,

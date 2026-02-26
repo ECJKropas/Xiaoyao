@@ -56,7 +56,8 @@
     "shrine_lamp": true
   },
   "untitledduckmod": {
-    "lay_egg": true
+    "lay_egg": true,
+    "next_eat": true
   },
   "jade": {
     "coordinates.rel": false,

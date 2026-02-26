@@ -1,5 +1,10 @@
 @echo off
 
+robocopy ..\..\mcfiles\.minecraft\versions\Xiaoyao\config ..\..\xiaoyao_prgs\xiaoyao\config -e
+robocopy ..\..\mcfiles\.minecraft\versions\Xiaoyao\saves ..\..\xiaoyao_prgs\xiaoyao\saves -e
+
+pause
+
 rem This file is UTF-8 encoded, so we need to update the current code page while executing it
 for /f "tokens=2 delims=:." %%a in ('"%SystemRoot%\System32\chcp.com"') do (
     set _OLD_CODEPAGE=%%a
