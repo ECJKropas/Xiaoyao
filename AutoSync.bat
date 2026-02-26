@@ -30,7 +30,7 @@ set "VIRTUAL_ENV_PROMPT=xiaoyao_prgs"
 
 setlocal enabledelayedexpansion
 
-
+kamuidrome export
 
 echo 正在同步 Git 仓库...
 
