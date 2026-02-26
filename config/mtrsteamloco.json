@@ -1,0 +1,12 @@
+{
+  "shaderCompatMode": false,
+  "enableBbModelPreload": false,
+  "translucentSort": false,
+  "enableScriptDebugOverlay": false,
+  "enableRail3D": true,
+  "enableRailRender": true,
+  "enableTrainRender": true,
+  "enableTrainSound": true,
+  "enableSmoke": true,
+  "hideRidingTrain": false
+}

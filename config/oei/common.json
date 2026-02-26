@@ -1,0 +1,8 @@
+{
+  "common": {
+    "Deeper_Replace": true,
+    "Clear_Food_Properties": false,
+    "Enable_Lite": false,
+    "Default_Rules": {}
+  }
+}

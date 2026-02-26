@@ -1,0 +1,17 @@
+{
+  "food_healing_value": 0.5,
+  "duck_spawn_weight": 6,
+  "duck_min_group_size": 2,
+  "duck_max_group_size": 4,
+  "duck_fishing_change": 0.5,
+  "duck_tamed_not_follow": false,
+  "duck_baby_random_size": true,
+  "goose_spawn_weight": 4,
+  "goose_min_group_size": 2,
+  "goose_max_group_size": 4,
+  "goose_tamed_not_follow": false,
+  "goose_baby_random_size": true,
+  "intimidation_blacklist": [
+    "modid:test"
+  ]
+}
