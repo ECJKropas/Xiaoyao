@@ -1,1 +1,1 @@
--0.8: Testing whether autosync is working
+-0.7: Testing whether autopacking is working
