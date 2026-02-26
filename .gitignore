@@ -1,0 +1,8 @@
+#Use `` to get all mods
+mods/*
+!mods/Sakura-Orihime-1.0.10.jar
+!mods/worldedit-mod-7.2.15.jar
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
